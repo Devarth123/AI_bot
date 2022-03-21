@@ -1,0 +1,3 @@
+C:/Users/devar/CLionProjects/funcs/cmake-build-debug/CMakeFiles/np_dot__.dir
+C:/Users/devar/CLionProjects/funcs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/devar/CLionProjects/funcs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
