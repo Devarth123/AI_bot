@@ -44,7 +44,7 @@ int dotProduct(vect_A[], vect_B[], n) {
     }
     return product;
 
-    //Yes this was copied from stack overflow
+    //Yes this was copied from stack overflow.
 }
 int count(first, second) {
     for (int i = first; i < (second + 1); ++i) {
