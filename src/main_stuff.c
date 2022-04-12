@@ -16,7 +16,7 @@ void spliter(char *str_split_arr[], char *string, char *del) {
 
 int main() {
     int i = 0;
-    int ik=2//this is the const multiplier      
+    int ik=2;//this is the const multiplier      
     int  input_const =2; //this a const (atleast for now) 
     char prompt[80];                                                
     float arr[40]; //this where the inputs get's stored             
