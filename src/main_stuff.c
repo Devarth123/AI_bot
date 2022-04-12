@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include </home/dev/Desktop/code/AI_bot/header_files/main.h>
+#include </home/dev/Desktop/code/AI_bot/header_files/main.h>//this will be different for you.
 #include <string.h>
 #include <stdlib.h>
 #include <unistd.h>
