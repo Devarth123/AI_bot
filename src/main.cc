@@ -38,7 +38,7 @@ int main(){
   std::vector<float> arr;
   float ik=0.2;
   float input_const= 0.2;
-  std::string string_; // This the array where the string gets input string after getting split gets stored.
+  std::string string_;
   std::string words[10] = {"hello", "i", "am", "thanks", "!", "Blue", "The", "almighty", "Creators", "good"};
   system("clear");
   std::cout<<"TEST"<<std::endl;
