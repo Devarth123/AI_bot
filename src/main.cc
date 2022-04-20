@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include <string.h>
+
 bool is_chars_same(char ch1,char ch2 ){
   return (ch1==ch2);
 }
