@@ -1,6 +1,7 @@
 #include <main.h>
 #include <array>
 #include <string.h>
+#include <stdio.h>
 #include <math.h>
 #include <vector>
 
