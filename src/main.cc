@@ -2,17 +2,13 @@
 #include <vector>
 #include <string>
 
-bool is_chars_same(char ch1,char ch2 ){
+bool is_chars_same(char& ch1,char& ch2 ){
   return (ch1==ch2)?1:0;
 }
-bool is_strs_same(std::string s1, std::string s2){
-  bool return_;
-  return = (s1==s2) ? true:false;
-  return return_;
+bool is_strs_same(std::string& s1, std::string& s2){
+     return (s1!=s2) 0:1; 
 }
-
-
-void display(std::vector<std::string> dis){
+void display(std::vector<std::string>& dis){
   for(int i=0; i<dis.size(); i++){
     std::cout<<dis[i]<<'\t';
   }                       
@@ -22,7 +18,6 @@ std::vector<std::string> split(std::string& s)
   std::string temp;
   std::vector<std::string> tken;
   tken.reserve((sizeof(s)/sizeof(std::string)));
-  //do the actual splitting work, add each token to our vector with emplace_back
   for(auto x: s){                                    
     if(is_chars_same(x, ' ')==1){                                      
     tken.emplace_back(temp);                         
