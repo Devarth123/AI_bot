@@ -3,7 +3,7 @@
 #include <string>
 
 bool is_chars_same(char ch1,char ch2 ){
-  return (ch1==ch2);
+  return (ch1==ch2)?1:0;
 }
 bool is_strs_same(std::string s1, std::string s2){
   bool return_;
